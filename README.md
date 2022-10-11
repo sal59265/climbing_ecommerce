@@ -12,7 +12,13 @@ git clone git@github.com:sal59265/climbing_ecommerce.git
 
 ## ERD
 
+### **ERD**
+
+![ERD](https://trello.com/1/cards/6334bcbabeb8bb00a825d9e8/attachments/6345bec723f1a00228bbbc33/download/image.png)
+
 ## Hierarchy Diagram
+
+![Hierarchy](https://trello.com/c/LDr6jufN/17-create-hierarchy-diagram)
 
 ### **_Technologies Used_**
 
