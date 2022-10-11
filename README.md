@@ -10,15 +10,19 @@ Use github to install this ecommerce website.
 git clone git@github.com:sal59265/climbing_ecommerce.git
 ```
 
+## [Trello](https://trello.com/b/Qq584Yb8/ecommerce)
+
+---
+
 ## ERD
 
-### **ERD**
+---
 
-![ERD](https://trello.com/1/cards/6334bcbabeb8bb00a825d9e8/attachments/6345bec723f1a00228bbbc33/download/image.png)
+![](https://trello.com/1/cards/6334bcbabeb8bb00a825d9e8/attachments/6345bec723f1a00228bbbc33/download/image.png)
 
 ## Hierarchy Diagram
 
-![Hierarchy](https://trello.com/c/LDr6jufN/17-create-hierarchy-diagram)
+![](https://trello.com/1/cards/6345d2ca734810039ff04867/attachments/6345d314d196c10017860f70/download/image.png)
 
 ### **_Technologies Used_**
 
