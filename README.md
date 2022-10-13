@@ -24,6 +24,10 @@ git clone git@github.com:sal59265/climbing_ecommerce.git
 
 ![](https://trello.com/1/cards/6345d2ca734810039ff04867/attachments/6345d314d196c10017860f70/download/image.png)
 
+## General Layout Page
+
+![](https://trello.com/1/cards/6348a050847821019c9c8239/attachments/6348a05b741d96002427e3b9/download/landing_page.PNG)
+
 ### **_Technologies Used_**
 
 - HTML
@@ -34,9 +38,9 @@ git clone git@github.com:sal59265/climbing_ecommerce.git
 - Stripe
 - canvas-confetti
 - React Icons
+- canva
 
 ---
-
 
 ## Members
 
@@ -46,3 +50,5 @@ Soul lee: [Github](https://github.com/sal59265?tab=repositories) [Email](lee.sou
 
 ### **Credits**
 
+- canva.com
+- REI.com
