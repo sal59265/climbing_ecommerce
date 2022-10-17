@@ -5,6 +5,7 @@ import { Product, FooterBanner, HeroBanner } from '../components';
 const Home = () => {
   return (
     <>
+      Header
       <HeroBanner />
       <div>HeroBanner</div>
       <div>

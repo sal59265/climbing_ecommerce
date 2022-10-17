@@ -3,7 +3,7 @@ import Link from 'next/link'
 
 const HeroBanner = () => {
   return (
-    <div>
+    <div className='hero-banner-container'>
       <div>
         <p>Small Text</p>
         <h3>Mid Text</h3>
